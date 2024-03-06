@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Users\user\Desktop\midterm\midterm\bin\Debug\midterm.exe
+C:\Users\user\Desktop\midterm\midterm\bin\Debug\midterm.pdb
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.register.resources
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.Login.resources
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.Properties.Resources.resources
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.exe
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.pdb
+C:\Users\user\Desktop\midterm\midterm\obj\Debug\midterm.mainManu.resources
